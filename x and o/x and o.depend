@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1713220036 source:c:\users\youss\downloads\language c\x and o\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../library/cs50/cs50.h"
+	<conio.h>
+	<string.h>
+
+1707903132 source:c:\users\youss\downloads\language c\library\cs50\cs50.c
+	<ctype.h>
+	<errno.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1707903132 c:\users\youss\downloads\language c\library\cs50\cs50.h
+	<float.h>
+	<limits.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+
+1709469237 source:c:\users\youss\downloads\language c\library\pile_statique\pile_statique.c
+	"Pile_statique.h"
+
+1709468964 c:\users\youss\downloads\language c\library\pile_statique\pile_statique.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"../cs50/cs50.h"
+
